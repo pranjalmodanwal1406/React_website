@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/website_using_react/static/css/main.374bc938.css",
+    "main.js": "/website_using_react/static/js/main.c2279db5.js",
+    "static/js/787.c567495e.chunk.js": "/website_using_react/static/js/787.c567495e.chunk.js",
+    "static/media/app.jpg": "/website_using_react/static/media/app.957eec7ac2ff2ba83ba1.jpg",
+    "static/media/phone.jpg": "/website_using_react/static/media/phone.0334550b29ec0634dfc9.jpg",
+    "static/media/software.jpg": "/website_using_react/static/media/software.109790ee0c4f3b168dbf.jpg",
+    "static/media/s2.jpg": "/website_using_react/static/media/s2.872ff791e25c13d5ea15.jpg",
+    "static/media/s1.jpg": "/website_using_react/static/media/s1.e134bd2acafa7773c5d0.jpg",
+    "static/media/team.jpg": "/website_using_react/static/media/team.46d1f759c531941ff5df.jpg",
+    "static/media/girl.jpg": "/website_using_react/static/media/girl.53c04e728f4af11bd693.jpg",
+    "static/media/marketing.jpg": "/website_using_react/static/media/marketing.03c0708f481de71cd220.jpg",
+    "static/media/webdev.png": "/website_using_react/static/media/webdev.cb635287badd892d7261.png",
+    "index.html": "/website_using_react/index.html",
+    "main.374bc938.css.map": "/website_using_react/static/css/main.374bc938.css.map",
+    "main.c2279db5.js.map": "/website_using_react/static/js/main.c2279db5.js.map",
+    "787.c567495e.chunk.js.map": "/website_using_react/static/js/787.c567495e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.374bc938.css",
+    "static/js/main.c2279db5.js"
+  ]
+}
